@@ -4,7 +4,7 @@ import com.google.common.eventbus.Subscribe;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author Administrator
+ * @author lanluyug
  */
 @Slf4j
 public class GuavaEvent {

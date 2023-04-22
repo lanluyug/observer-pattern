@@ -5,6 +5,9 @@ import lombok.extern.slf4j.Slf4j;
 import java.util.Observable;
 import java.util.Observer;
 
+/**
+ * @author lanluyug
+ */
 @Slf4j
 public class ExpertObserver implements Observer {
 

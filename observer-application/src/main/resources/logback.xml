@@ -32,7 +32,5 @@
     </root>
     <!-- 定制化某些包的日志输出级别 -->
     <logger name="org.apache.kafka" level="warn" additivity="false"/>
-    <logger name="org.springframework" level="info">
-        <appender-ref ref="stdout" />
-    </logger>
+    <logger name="org.springframework" level="info" />
 </configuration>

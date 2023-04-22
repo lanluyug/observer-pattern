@@ -8,6 +8,9 @@ import org.apache.kafka.clients.consumer.KafkaConsumer;
 import java.time.Duration;
 import java.util.Collections;
 
+/**
+ * @author lanluyug
+ */
 @Slf4j
 public class SimpleConsumer {
 

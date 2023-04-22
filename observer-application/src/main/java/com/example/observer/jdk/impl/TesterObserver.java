@@ -6,7 +6,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * @author Administrator
+ * @author lanluyug
  */
 
 @Slf4j

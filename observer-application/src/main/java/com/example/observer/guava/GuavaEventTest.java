@@ -4,6 +4,9 @@ import com.example.util.Utils;
 import com.google.common.eventbus.EventBus;
 import lombok.extern.slf4j.Slf4j;
 
+/**
+ * @author lanluyug
+ */
 @Slf4j
 public class GuavaEventTest {
 

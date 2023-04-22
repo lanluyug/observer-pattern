@@ -9,7 +9,7 @@ import lombok.extern.slf4j.Slf4j;
 import java.util.Observable;
 
 /**
- * @author Administrator
+ * @author lanluyug
  * 总结：
  * + 使用面向对象的抽象，Observer模式使得我们可以独立地改变目标与观察者，从而使二者之间的依赖关系达致松耦合。
  * + 目标发送通知时，无需指定观察者，通知（可以携带通知信息作为参数）会自动传播。

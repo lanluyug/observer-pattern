@@ -3,7 +3,7 @@ package com.example.observer.guava;
 import lombok.Data;
 
 /**
- * @author Administrator
+ * @author lanluyug
  */
 @Data
 public class Message<T> {

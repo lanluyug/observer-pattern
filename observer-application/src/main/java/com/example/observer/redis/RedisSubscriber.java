@@ -4,7 +4,7 @@ import lombok.extern.slf4j.Slf4j;
 import redis.clients.jedis.JedisPubSub;
 
 /**
- * @author Administrator
+ * @author lanluyug
  * 订阅者
  */
 @Slf4j

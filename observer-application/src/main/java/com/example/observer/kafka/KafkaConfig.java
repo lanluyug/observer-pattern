@@ -6,7 +6,7 @@ import org.apache.kafka.clients.producer.ProducerConfig;
 import java.util.Properties;
 
 /**
- * @author Administrator
+ * @author lanluyug
  */
 public class KafkaConfig {
 

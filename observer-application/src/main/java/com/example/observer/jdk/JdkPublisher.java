@@ -7,9 +7,11 @@ import java.util.Observer;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author Administrator
+ * @author lanluyug
  * 监听是否有新消息，把风的，相当于特殊的中介
  * 管理观察者并通知观察者。
+ * Observable 和Observer已经在JDK9被Flow替代
+ * @see java.util.concurrent.Flow
  */
 @Slf4j
 public class JdkPublisher extends Observable implements Observer {

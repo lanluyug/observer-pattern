@@ -4,6 +4,9 @@ import lombok.extern.slf4j.Slf4j;
 import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.JedisPoolConfig;
 
+/**
+ * @author lanluyug
+ */
 @Slf4j
 public class PubSubDemo {
 
