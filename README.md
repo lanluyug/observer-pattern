@@ -1,4 +1,5 @@
 # observer-pattern
+观察者模式在Java及相关框架中的应用
 observer publish/suscribe pattern in spring kafka redis java guava demo
 
 ## 观察者模式应用
